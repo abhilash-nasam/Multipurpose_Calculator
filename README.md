@@ -52,48 +52,10 @@ Where:
 
 ## Technologies Used
 
-- Python 3
+- Python
 - Python `math` module
-- Command Line Interface (CLI)
+- VS code
 
----
-
-## Project Structure
-
-```
-multipurpose-calculator
-│
-├── calculator.py
-└── README.md
-```
-
----
-
-## How to Run the Program
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/multipurpose-calculator.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd multipurpose-calculator
-```
-
-### 3. Run the program
-
-```bash
-python calculator.py
-```
-
----
-
-## Example Menu
-
-```
 ========= MULTI-PURPOSE CALCULATOR =========
 1. Basic Calculator
 2. Scientific Calculator
